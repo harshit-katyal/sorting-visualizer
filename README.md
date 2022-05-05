@@ -2,10 +2,10 @@
 
 This is a Web Application built using React and is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
 
-This app is deployed with Netlify and can be accessed here: []().
+This app is deployed with Heroku and can be accessed here: [https://sortingg-visualizer.herokuapp.com/](https://sortingg-visualizer.herokuapp.com/).
 
 
-[![Netlify Status]()]()
+![Heroku](https://pyheroku-badge.herokuapp.com/?app=<sortingg-visualizer>&style=<STYLE>)
 
 
 ## Purpose
