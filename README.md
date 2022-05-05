@@ -60,6 +60,6 @@ The app is responsive, meaning it works across a variety of screen sizes and dim
 
 The app has a switch for turning on dark mode.
 
-![Sort Visualizer - dark mode]()
+![Sort Visualizer - dark mode](https://github.com/harshit-katyal/sorting-visualizer/blob/master/public/dark%20mode.png)
 
 
