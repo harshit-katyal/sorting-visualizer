@@ -6,7 +6,6 @@ import AppControls from './components/molecules/AppControls';
 import TopBar from './components/organisms/TopBar';
 import AppDrawer from './components/organisms/AppDrawer';
 import SortVisualizer from './components/organisms/SortVisualizer';
-import Footer from './components/molecules/Footer';
 
 import BubbleSort, {
   BubbleSortKey,
