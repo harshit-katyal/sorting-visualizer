@@ -5,7 +5,7 @@ This is a Web Application built using React and is used to visualize classic sor
 This app is deployed with Heroku and can be accessed here: [https://sortingg-visualizer.herokuapp.com/](https://sortingg-visualizer.herokuapp.com/).
 
 
-![Heroku](https://pyheroku-badge.herokuapp.com/?app=<sortingg-visualizer>&style=<STYLE>)
+![Heroku](https://pyheroku-badge.herokuapp.com/?app=sortingg-visualizer&style=<STYLE>)
 
 
 ## Purpose
