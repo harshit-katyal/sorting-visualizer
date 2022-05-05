@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "heroku": "^7.60.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-icons": "^3.8.0",
