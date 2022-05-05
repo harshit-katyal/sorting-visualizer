@@ -169,7 +169,6 @@ class App extends Component {
             desc={desc}
           />
         </main>
-        <Footer />
       </div>
     );
   }
