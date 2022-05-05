@@ -1,6 +1,6 @@
 # Sort Visualizer
 
-This is a built using React and is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
+This is a Web Application built using React and is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
 
 This app is deployed with Netlify and can be accessed here: []().
 
