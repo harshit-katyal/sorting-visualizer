@@ -2,10 +2,10 @@
 
 This is a Web Application built using React and is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
 
-This app is deployed with Netlify and can be accessed here: []().
+This app is deployed with Heroku and can be accessed here: [https://sortingg-visualizer.herokuapp.com/](https://sortingg-visualizer.herokuapp.com/).
 
 
-[![Netlify Status]()]()
+![Heroku](https://pyheroku-badge.herokuapp.com/?app=sortingg-visualizer&style=<STYLE>)
 
 
 ## Purpose
@@ -56,10 +56,10 @@ The design of the app was largely inspired by Google's [Material Design Guidelin
 
 The app is responsive, meaning it works across a variety of screen sizes and dimensions.
 
-![Sort Visualizer - regular (light) mode]()
+![Sort Visualizer - regular (light) mode](https://github.com/harshit-katyal/sorting-visualizer/blob/master/public/light%20mode.png)
 
 The app has a switch for turning on dark mode.
 
-![Sort Visualizer - dark mode]()
+![Sort Visualizer - dark mode](https://github.com/harshit-katyal/sorting-visualizer/blob/master/public/dark%20mode.png)
 
 
